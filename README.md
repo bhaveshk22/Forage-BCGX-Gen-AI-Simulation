@@ -29,8 +29,8 @@ cd Forage-BCGX-Gen-AI-Simulation
 Details on how to interact with the prototype and analyze the data can be found in the corresponding directories:
 
 - `data_collection/`: Contains scripts and documentation related to the SEC EDGAR data collection process.
-- `financial_analysis/`: Includes notebooks and scripts used for financial analysis. Specific questions the chatbot can answer are listed in the `task_2/questions.txt` file.
-- `chatbot_prototype/`: Code and resources for the Generative AI chatbot prototype.
+- `Task 2_ Developing a AI driven Financial Chatbot Prototype`: Code and resources for the Generative AI chatbot prototype.
+- `task_2/questions.txt` : Specific questions the chatbot can answer are listed in the this file.
 
 ## License
 
