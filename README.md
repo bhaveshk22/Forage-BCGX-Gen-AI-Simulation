@@ -20,8 +20,8 @@ This repository contains the work completed during the BCG Generative AI Simulat
 To run the project locally, clone the repository and follow the instructions below:
 
 ```bash
-git clone https://github.com/bhaveshk22/BCG-GenAI-Simulation.git
-cd BCG-GenAI-Simulation
+git clone https://github.com/bhaveshk22/Forage-BCGX-Gen-AI-Simulation.git
+cd Forage-BCGX-Gen-AI-Simulation
 ```
 
 ## Usage
@@ -34,4 +34,4 @@ Details on how to interact with the prototype and analyze the data can be found 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
